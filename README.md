@@ -1,4 +1,4 @@
-# owasp-sc-token-
+# OWASP-sc-token-
 Token‑level CodeBERT model for localizing OWASP SC01/SC05/SC08 vulnerabilities in Solidity smart contracts using the SmartBugs‑Curated dataset
 
 This project fine‑tunes microsoft/codebert-base for token‑level localization of smart contract vulnerabilities mapped to OWASP SC01 (Access Control), 
